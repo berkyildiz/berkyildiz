@@ -93,7 +93,7 @@ I'm a **Backend-focused Software Developer** based in Istanbul, Turkey, with ove
   </a>
   <br />
   <a href="https://github.com/berkyildiz">
-    <img src="https://streak-stats.demolab.com/?user=berkyildiz&theme=transparent&background=00000000&hide_border=true&stroke=0000&ring=2496ED&fire=2496ED&currStreakNum=777BB4&sideNums=777BB4&currStreakLabel=777BB4&sideLabels=777BB4&dates=777BB4" alt="Berk Yıldız's GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkyildiz&theme=transparent&background=00000000&hide_border=true&stroke=0000&ring=2496ED&fire=2496ED&currStreakNum=777BB4&sideNums=777BB4&currStreakLabel=777BB4&sideLabels=777BB4&dates=777BB4" alt="Berk Yıldız's GitHub Streak">
   </a>
   <br />
   <a href="https://github.com/berkyildiz">
