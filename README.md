@@ -113,6 +113,12 @@ I'm a **Backend-focused Software Developer** based in Istanbul, Turkey, with ove
   <a href="mailto:hi@berkyildiz.com.tr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://berkyildiz.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2496ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="berkyildiz.com.tr" />
+  </a>
+  <a href="https://xathena.net" target="_blank">
+    <img src="https://img.shields.io/badge/Xathena-E0234E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="xathena.net" />
+  </a>
 </div>
 
 ---
