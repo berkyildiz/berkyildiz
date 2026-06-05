@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=800&lines=👋+Hey+there,+I'm+Berk+Yıldız;🌐+Backend-focused+Software+Developer;💻+6%2B+Years+of+System+Design+%26+Infrastructure;🚀+Scaling+Applications+%26+Automating+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hey+there%2C+I%27m+Berk+Y%C4%B1ld%C4%B1z;%F0%9F%8C%90+Backend-focused+Software+Developer;%F0%9F%92%BB+6%2B+Years+of+System+Design+%26+Infrastructure;%F0%9F%9A%80+Scaling+Applications+%26+Automating+CI%2FCD" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -89,15 +89,15 @@ I'm a **Backend-focused Software Developer** based in Istanbul, Turkey, with ove
 
 <div align="center">
   <a href="https://github.com/berkyildiz">
-    <img src="https://github-readme-stats.vercel.app/api?username=berkyildiz&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=2496ED&text_color=777BB4&icon_color=2496ED" alt="Berk Yıldız's GitHub Stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkyildiz&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=2496ED&text_color=777BB4&icon_color=2496ED" alt="Berk Yıldız's GitHub Stats">
   </a>
   <br />
   <a href="https://github.com/berkyildiz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkyildiz&theme=transparent&background=00000000&hide_border=true&stroke=0000&ring=2496ED&fire=2496ED&currStreakNum=777BB4&sideNums=777BB4&currStreakLabel=777BB4&sideLabels=777BB4&dates=777BB4" alt="Berk Yıldız's GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=berkyildiz&theme=transparent&background=00000000&hide_border=true&stroke=0000&ring=2496ED&fire=2496ED&currStreakNum=777BB4&sideNums=777BB4&currStreakLabel=777BB4&sideLabels=777BB4&dates=777BB4" alt="Berk Yıldız's GitHub Streak">
   </a>
   <br />
   <a href="https://github.com/berkyildiz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkyildiz&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2496ED&text_color=777BB4" alt="Berk Yıldız's Top Languages">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkyildiz&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2496ED&text_color=777BB4" alt="Berk Yıldız's Top Languages">
   </a>
 </div>
 
